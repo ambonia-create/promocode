@@ -1,0 +1,50 @@
+{
+    "promoCards": [
+      {
+        "id": 1,
+        "discount": "15%",
+        "type": "Промокод",
+        "description": "Знижка 15% із промокодом iHerb на весь асортимент сайту",
+        "buttonText": "ПОКАЗАТИ КОД",
+        "promocode": "DDC5507",
+        "link": "https://iherb.co/2xsMXrXb"
+      },
+      {
+        "id": 2,
+        "discount": "20%",
+        "type": "Промокод",
+        "description": "Знижка 20 % на перше замовлення",
+        "buttonText": "ПОКАЗАТИ КОД",
+        "promocode": "NEW20",
+        "link": "https://iherb.co/WCx6nGR3"
+      },
+      {
+        "id": 3,
+        "discount": "30%",
+        "type": "Промокод",
+        "description": "Отримайте знижку 30 % при купівлі будь-яких товарів власних брендів iHerb і знижку 10 % при купівлі всіх інших товарів!",
+        "buttonText": "ПОКАЗАТИ КОД",
+        "promocode": "GOLD120",
+        "link": "https://iherb.co/WCx6nGR3"
+      },
+      {
+        "id": 4,
+        "discount": "60%",
+        "type": "Рекомендовані",
+        "description": "Розпродаж в iHerb до 60% на понад 1000 товарів",
+        "buttonText": "ВИКОРИСТАТИ",
+        "promocode": null,
+        "link": "https://iherb.co/WCx6nGR3"
+      },
+      {
+        "id": 5,
+        "discount": "20%",
+        "type": "Суперкції",
+        "description": "Знижка 20% на понад 750 мультивітамінів Now Foods, Solgar",
+        "buttonText": "ВИКОРИСТАТИ",
+        "promocode": null,
+        "link": "https://iherb.co/2xsMXrXb"
+      }
+    ]
+  }
+  

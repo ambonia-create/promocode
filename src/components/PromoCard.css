@@ -1,0 +1,86 @@
+.promo-card {
+    font-family: Roboto, sans-serif;
+    
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: white;
+    min-height: 168px;
+    /* padding: 15px 20px; */
+    border-radius: 12px;
+    border: 1px solid #CAC4D0;
+    box-shadow: 0px 4px 8px 0px #0000000D;
+
+  }
+  
+.promo-info {
+    display: flex;
+    flex-direction: start;
+    align-items: center;
+  }
+  
+.promo-percentage {
+    font-family: Montserrat, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 68px;
+    line-height: 68px;
+    letter-spacing: 4px;
+    font-weight: 700;
+    color: #367C2B;
+
+    min-width: 137px;
+    padding: 50px 43px;
+    /* margin-right: 15px; */
+  }
+  
+.promo-description {
+    padding: 20px;
+    padding-right: 40px ;
+    font-size: 24px;
+    line-height: 32px;
+    letter-spacing: 0.5px;
+    font-weight: 400;
+    color: #333;
+  }
+  
+.promo-type {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 69px;
+    max-width: 115px;
+    height: 16px;
+    padding: 10px 12px;
+    background-color: #F1F1F1;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 5px;
+    color: #367C2B;
+  }
+  
+.promo-button {
+    /* font-family: Montserrat, sans-serif; */
+    max-width: 237px;
+    min-width: 209px;
+    height: 56px;
+    padding: 10px 10px;
+    margin-right: 28px;
+    margin-left: auto;
+    background-color: #367C2B;
+    ;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    box-shadow: 4px 4px 8px 0px #00000026;
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 16px;
+    letter-spacing: 2.5px;
+    font-weight: 700;
+  }
+  
+.promo-button:hover {
+    background-color: #388e3c;
+  }

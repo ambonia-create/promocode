@@ -1,0 +1,92 @@
+.modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modal-content {
+    background-color: white;
+    width: 600px;
+    /* padding: 30px; */
+    border-radius: 12px;
+    position: relative;
+  }
+  
+  .modal-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 30px;
+    padding-right: 10px;
+    background-color: #367C2B;
+    color: white;
+  }
+  
+  .close-button {
+    background: none;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+  }
+
+  .modal-body {
+    padding: 30px;
+  }
+  
+  .promo-code-container {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  
+  .promo-code {
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 15px;
+    padding: 5px 10px;
+    background-color: #f8f8f8;
+    border: 2px solid #ddd;
+    box-shadow: 0px 4px 8px 0px #0000000D;
+    border-radius: 4px;
+  }
+  
+  .copy-button {
+    background-color: #e0e0e0;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
+  .copy-notification {
+    color: green;
+    margin-top: 10px;
+    font-size: 14px;
+  }
+  
+  .discount-info {
+    margin-top: 20px;
+    font-size: 24px;
+  }
+  
+  .modal-footer {
+    display: flex;
+    justify-content: center;
+    /* margin-top: 20px; */
+    margin-bottom: 40px;
+  }
+  
+  .visit-site-button {
+    font-size: 18px;
+    background-color: #367C2B;
+    color: white;
+    border: none;
+    padding: 20px 30px;
+    border-radius: 8px;
+    cursor: pointer;
+  }
